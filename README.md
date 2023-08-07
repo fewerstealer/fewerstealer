@@ -1,6 +1,6 @@
 <h1 align="center">
 
-🦊**My discord address you can contact me: xFixxy#6624(My User Id : 1133511356109312093)**
+🦊**My discord address you can contact me: xFixxy#6624(1133511356109312093)**
 
 🛡️ Fewer Stealer v1.0
 
